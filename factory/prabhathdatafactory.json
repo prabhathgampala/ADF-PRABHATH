@@ -1,0 +1,9 @@
+{
+	"name": "prabhathdatafactory",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b00820c8-e62f-4ea5-8809-b9340d782ce8",
+		"tenantId": "40932a0a-d88a-40e5-9263-e2a1dae0b317"
+	}
+}
